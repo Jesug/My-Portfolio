@@ -1,19 +1,21 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.28ad321b.css",
-    "main.js": "/My-Portfolio/static/js/main.57982f8b.js",
+    "main.js": "/My-Portfolio/static/js/main.d4d4e309.js",
+    "static/media/riv.png": "/My-Portfolio/static/media/riv.d85b49ad5c86be18635c.png",
+    "static/media/fad.png": "/My-Portfolio/static/media/fad.75498006354db389ba0e.png",
     "static/media/fadeb.png": "/My-Portfolio/static/media/fadeb.e0efed87d1e0a84a6934.png",
     "static/media/E-commerce.png": "/My-Portfolio/static/media/E-commerce.c927acae60aec4756f15.png",
-    "static/media/JesugCV.pdf": "/My-Portfolio/static/media/JesugCV.7746df38ffbdd7399dc1.pdf",
     "static/media/FineDining.png": "/My-Portfolio/static/media/FineDining.b32904ef9d9c6d8e3bbf.png",
     "static/media/me2.png": "/My-Portfolio/static/media/me2.352056d6a49ca154b5c8.png",
+    "static/media/CV.pdf": "/My-Portfolio/static/media/CV.72937a272a8db90168f5.pdf",
     "static/media/cartoon.jpg": "/My-Portfolio/static/media/cartoon.26e3a2adba9964173153.jpg",
     "index.html": "/My-Portfolio/index.html",
     "main.28ad321b.css.map": "/My-Portfolio/static/css/main.28ad321b.css.map",
-    "main.57982f8b.js.map": "/My-Portfolio/static/js/main.57982f8b.js.map"
+    "main.d4d4e309.js.map": "/My-Portfolio/static/js/main.d4d4e309.js.map"
   },
   "entrypoints": [
     "static/css/main.28ad321b.css",
-    "static/js/main.57982f8b.js"
+    "static/js/main.d4d4e309.js"
   ]
 }
